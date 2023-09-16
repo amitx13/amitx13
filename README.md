@@ -1,10 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Amit Kumar Prasad</h1>
 <h3 align="center">🔗 Blockchain Enthusiast | Passionate about MERN Stack | DSA Wizard 📊 | Contributing to open-source projects for a decentralized future. 🚀</h3>
-<img align="right" alt="Coding" width="280" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitx13&label=Profile%20views&color=0e75b6&style=flat" alt="amitx13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitx13" alt="amitx13" /></a> </p>
+
+<img align="right" alt="Coding" width="280" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/_0xcode" target="blank"><img src="https://img.shields.io/twitter/follow/_0xcode?logo=twitter&style=for-the-badge" alt="_0xcode" /></a> </p>
 
